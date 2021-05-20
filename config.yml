@@ -1,0 +1,24 @@
+MYSQL:
+  HOST: "localhost:3306"
+  DATABASE: "SoupPvP"
+  AUTH:
+    USERNAME: "root"
+    PASSWORD: ""
+
+JOIN_MOTD:
+- "&7&m-----------------------------------------------------"
+- ""
+- " &b&lWelcome <player> to SoupPvP!"
+- ""
+- " &7* &fDiscord: &bSantiMG#7450"
+- " &7* &fTwitter: &btwitter.com/SantiMG__"
+- " &7* &fGitHub: &bgithub.com/DevSantiMG"
+- ""
+- "&7&m-----------------------------------------------------"
+
+COMBAT_BLOCKED_COMMANDS:
+- "/spawn"
+- "/kit"
+- "/kits"
+- "/loadKit"
+- "/applyKit"

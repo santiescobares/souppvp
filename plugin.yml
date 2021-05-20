@@ -1,0 +1,5 @@
+name: SoupPvP
+author: SantiMG
+version: 1.0
+load: POSTWORLD
+main: dev.santimg.souppvp.SoupPvP
